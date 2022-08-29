@@ -1,4 +1,4 @@
-# Bascom_avr-Thermometer
+# AVR Thermometer
 
 <p align="center">
 <img src="./Pic.jpg" height="240">
